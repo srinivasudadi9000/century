@@ -1,4 +1,4 @@
-package m.srinivas.century_task;
+package m.srinivas.century_task.helper;
 
 import android.content.Context;
 import android.content.DialogInterface;
@@ -7,6 +7,8 @@ import android.widget.TextView;
 
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
+
+import m.srinivas.century_task.R;
 
 /**
  * Created by srinivas on 06/04/18.

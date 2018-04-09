@@ -1,4 +1,4 @@
-package m.srinivas.century_task;
+package m.srinivas.century_task.Activities;
 
 import android.content.Context;
 import android.database.Cursor;
@@ -15,6 +15,8 @@ import com.google.android.gms.maps.OnMapReadyCallback;
 import com.google.android.gms.maps.SupportMapFragment;
 import com.google.android.gms.maps.model.LatLng;
 import com.google.android.gms.maps.model.MarkerOptions;
+
+import m.srinivas.century_task.R;
 
 public class MapsActivity extends FragmentActivity implements OnMapReadyCallback {
     TextView fullname, dateofbirth, phonenumber, email_txt;

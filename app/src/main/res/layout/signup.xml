@@ -7,7 +7,7 @@
     android:layout_gravity="center"
     android:gravity="center"
     android:orientation="vertical"
-    tools:context="m.srinivas.century_task.Signup">
+    tools:context="m.srinivas.century_task.Activities.Signup">
 
     <ScrollView
         android:layout_width="match_parent"

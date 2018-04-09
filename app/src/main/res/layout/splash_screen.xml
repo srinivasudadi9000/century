@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:background="@color/colorPrimary"
     android:orientation="vertical"
-    tools:context="m.srinivas.century_task.SplashScreen">
+    tools:context="m.srinivas.century_task.Activities.SplashScreen">
 
     <LinearLayout
         android:orientation="vertical"
