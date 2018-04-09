@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Century_Task</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="login"><u>Click Login</u></string>
+</resources>
